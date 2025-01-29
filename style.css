@@ -1,0 +1,11 @@
+body {
+  background-color: #b90000;
+  color: #f6eee3;
+  display: flex;
+  justify-content: center;
+}
+
+.boxLeft {
+  background-color: #5D0F0A;
+  width: 60%;
+}
